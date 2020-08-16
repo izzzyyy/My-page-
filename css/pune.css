@@ -1,0 +1,9 @@
+img{
+  width: 300px;
+  height:300px;
+  box-sizing: border-box;
+  border: 5px groove black;
+  margin: 30px;
+  padding: 20px;
+
+}

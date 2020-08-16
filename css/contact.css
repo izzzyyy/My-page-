@@ -1,0 +1,45 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+/* body {
+  padding-top: 3.5rem;
+} */
+/* .class{
+width:50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+.place{
+  color: white;
+  font-size:100px;
+  font-family: Georgia, serif;
+  box-sizing: border-box;
+  /* margin: 100px 150px 0px 150px; */
+    margin: 300px 150px 50px 150px;
+
+
+}
+
+
+
+.row{
+width: 1600px;
+height:800px;
+/* background-color: blue;
+border-radius: 50px;
+border: 20px groove orange; */
+background-image: url("food.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+
+.xplore{
+  color:white;
+}
+
+h3::first-letter{
+    font-family: serif;
+}

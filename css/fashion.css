@@ -1,0 +1,41 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+/* body {
+  padding-top: 3.5rem;
+} */
+/* .class{
+width:50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+h1{
+  color: white;
+  font-size:120px;
+  font-family: Georgia, serif;
+  box-sizing: border-box;
+  margin: 300px 150px 50px 180px;
+  /* margin: 300px 0px 0px 450px; */
+}
+
+
+
+.row{
+width: 1600px;
+height:800px;
+/* background-color: blue;
+border-radius: 50px;
+border: 20px groove orange; */
+background-image: url("3.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+.xplore{
+  color:white;
+}
+
+h3::first-letter{
+    font-family: serif;
+}
